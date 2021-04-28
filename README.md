@@ -1,6 +1,6 @@
 # CS 5010 Semester Project
 
-Contributors: Amber Curran, Manpreet Dhindsa, Robel Semunegus, Amber Curran
+Contributors: Amber Curran, Manpreet Dhindsa, Robel Semunegus
 
 ## Main Goals of the Project
 
