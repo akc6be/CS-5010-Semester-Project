@@ -1,6 +1,6 @@
 # CS-5010-Semester-Project
 
-Manpreet Dhindsa, Robel Semunegus, Amber Curran mkd8bb, rzs5yf, akc6be
+Amber Curran, Manpreet Dhindsa, Robel Semunegus, Amber Curran
 
 ## INTRODUCTION
 
